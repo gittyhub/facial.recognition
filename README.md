@@ -1,1 +1,1 @@
-# facial.detection
+# facial.recognition
